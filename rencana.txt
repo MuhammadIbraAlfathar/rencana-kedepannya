@@ -3,3 +3,5 @@
 - Belajar CSS
 - Belajar HTML
 - Belajar Javascript
+- Belajar Framework 
+- Belajar React
