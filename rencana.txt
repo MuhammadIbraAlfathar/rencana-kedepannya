@@ -1,7 +1,0 @@
-- Belajar Git
-- Belajar Mengenai Web Design dengan Adobe XD
-- Belajar CSS
-- Belajar HTML
-- Belajar Javascript
-- Belajar Framework 
-- Belajar React
